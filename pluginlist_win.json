@@ -6,7 +6,7 @@
       "id": "ifcloader",
       "name": "IFC 加载器",
       "author": "BIMSee",
-      "version": 2,
+      "version": "2.0",
       "appVersion": "3.1及以上",
       "releaseNotes": "首个 Windows 版本：支持 IFC2x3 / IFC4 模型加载，包含 ifcengine 与 schemas。",
       "description": "IFC 2x3 / IFC4 模型加载（含 ifcengine 与 schemas）",
@@ -21,14 +21,14 @@
         ".ifc"
       ],
       "download": "packages/win64/ifcloader-2.zip",
-      "sha256": "9844ce7c15c89f056f654ba4ff5656216ab1036e17f1b1f79d5272db96e793a2",
-      "size": 4078907
+      "sha256": "64c86b07a98f684431d302a5d84b1383be6508a4b20d3f3f374c9a0ebd7b61cb",
+      "size": 4078912
     },
     {
       "id": "3dtilesloader",
       "name": "3D Tiles 加载器",
       "author": "BIMSee",
-      "version": 1,
+      "version": "1.0",
       "appVersion": "3.1及以上",
       "releaseNotes": "首个 Windows 版本：支持 tileset.json / b3dm / glb。",
       "description": "加载 3D Tiles 瓦片集（tileset.json / b3dm / glb）",
@@ -42,8 +42,8 @@
         ".json"
       ],
       "download": "packages/win64/3dtilesloader-1.zip",
-      "sha256": "ab36608a2cf01e27d570bb86beef8acfe01472d51ee9a88e3ab3d2fa4379334a",
-      "size": 179630
+      "sha256": "02766485f2ab490d31c76db84b99f41cd3f387efa3917aec66207e187be99028",
+      "size": 179634
     }
   ]
 }
