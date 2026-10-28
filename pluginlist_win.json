@@ -20,7 +20,7 @@
       "extensions": [
         ".ifc"
       ],
-      "download": "https://raw.githubusercontent.com/bimsee/bspluginlist/main/packages/win64/ifcloader-2.zip",
+      "download": "packages/win64/ifcloader-2.zip",
       "sha256": "9844ce7c15c89f056f654ba4ff5656216ab1036e17f1b1f79d5272db96e793a2",
       "size": 4078907
     },
@@ -41,7 +41,7 @@
       "extensions": [
         ".json"
       ],
-      "download": "https://raw.githubusercontent.com/bimsee/bspluginlist/main/packages/win64/3dtilesloader-1.zip",
+      "download": "packages/win64/3dtilesloader-1.zip",
       "sha256": "ab36608a2cf01e27d570bb86beef8acfe01472d51ee9a88e3ab3d2fa4379334a",
       "size": 179630
     }
